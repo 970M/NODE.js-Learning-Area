@@ -22,7 +22,7 @@ x Node.js, accept arguments from the command line
 x Output to the command line using Node.js  
 x Accept input from the command line in Node.js  
 x Expose functionality from a Node.js file using exports  
-x x An introduction to the npm package manager  
+x An introduction to the npm package manager  
 x Where does npm install the packages?  
 x How to use or execute a package installed using npm  
 The package.json guide  
@@ -80,3 +80,7 @@ Node.js with WebAssembly
 
     ctrl-C
     process.exit(1)
+
+**Réinstaller les modules à partir du fichier package.json**
+
+    npm install
