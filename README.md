@@ -1,6 +1,6 @@
 # NODE.js Learning Area
 
-> https://nodejs.dev/learn/
+> <https://nodejs.dev/learn/>
 
 ### Quick Start
 
@@ -25,49 +25,49 @@ x Expose functionality from a Node.js file using exports
 x An introduction to the npm package manager  
 x Where does npm install the packages?  
 x How to use or execute a package installed using npm  
-The package.json guide  
-The package-lock.json file  
-Find the installed version of an npm package  
-Install an older version of an npm package  
-Update all the Node.js dependencies to their latest version  
-Semantic Versioning using npm  
-Uninstalling npm packages  
-npm global or local packages  
-npm dependencies and devDependencies  
-The npx Node.js Package Runner  
-The Node.js Event Loop  
-Understanding process.nextTick()  
-Understanding setImmediate()  
-Discover JavaScript Timers  
-JavaScript Asynchronous Programming and Callbacks  
-Understanding JavaScript Promises  
-Modern Asynchronous JavaScript with Async and Await  
-The Node.js Event emitter  
-Build an HTTP Server  
-Making HTTP requests with Node.js  
-Get HTTP request body data using Node.js  
-Working with file descriptors in Node.js  
-Node.js file stats  
-Node.js File Paths  
-Reading files with Node.js  
-Writing files with Node.js  
-Working with folders in Node.js  
-The Node.js fs module  
-The Node.js path module  
-The Node.js os module  
-The Node.js events module  
-The Node.js http module  
-Node.js Buffers  
-Node.js Streams  
-Node.js, the difference between development and production  
-Error handling in Node.js  
-How to log an object in Node.js  
-Node.js with TypeScript  
-Node.js with WebAssembly
+x The package.json guide  
+x The package-lock.json file  
+x Find the installed version of an npm package  
+x Install an older version of an npm package  
+x Update all the Node.js dependencies to their latest version  
+x Semantic Versioning using npm  
+x Uninstalling npm packages  
+x npm global or local packages  
+x npm dependencies and devDependencies  
+x The npx Node.js Package Runner  
+x The Node.js Event Loop  
+x Understanding process.nextTick()  
+x Understanding setImmediate()  
+x Discover JavaScript Timers  
+x JavaScript Asynchronous Programming and Callbacks  
+x Understanding JavaScript Promises  
+x Modern Asynchronous JavaScript with Async and Await  
+x The Node.js Event emitter  
+x Build an HTTP Server  
+x Making HTTP requests with Node.js  
+x Get HTTP request body data using Node.js  
+x Working with file descriptors in Node.js  
+x Node.js file stats  
+x Node.js File Paths  
+x Reading files with Node.js  
+x Writing files with Node.js  
+x Working with folders in Node.js  
+x The Node.js fs module  
+x The Node.js path module  
+x The Node.js os module  
+x The Node.js events module  
+x The Node.js http module  
+x Node.js Buffers  
+x Node.js Streams  
+x Node.js, the difference between development and production  
+x Error handling in Node.js  
+x How to log an object in Node.js  
+x Node.js with TypeScript  
+x Node.js with WebAssembly
 
 ### Notes
 
-**Run :**
+***Run :***
 
     node app.js
 
@@ -76,11 +76,11 @@ Node.js with WebAssembly
     npm i -g nodemon // Module : Restart the application automatically
     nodemon app.js
 
-**Exit :**
+***Exit :***
 
     ctrl-C
     process.exit(1)
 
-**Réinstaller les modules à partir du fichier package.json**
+***Réinstaller les modules à partir du fichier package.json***
 
     npm install
